@@ -1,5 +1,5 @@
 # Scrum-Project-
 ideas are currently:
 
-Blackjack
+Blackjack,
 Top Trumps style of game
